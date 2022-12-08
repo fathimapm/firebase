@@ -1,4 +1,0 @@
-enum StorageKeys{
-  uid,
-  token
-}
